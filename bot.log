@@ -1,0 +1,235 @@
+2025-02-21 16:36:33,357 - __main__ - INFO - Команды бота установлены.
+2025-02-21 16:36:33,513 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-21 16:37:06,732 - __main__ - INFO - Команды бота установлены.
+2025-02-21 16:37:06,905 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-21 16:37:24,651 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-21 16:38:53,704 - __main__ - INFO - Команды бота установлены.
+2025-02-21 16:38:53,865 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-21 16:39:07,188 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-21 16:39:34,324 - services.response_from_assistant - INFO - Сгенерированный текст: Привет! У меня всё хорошо, спасибо, что спросил. Я... Входящие токены: 22, Исходящие токены: 64, Всего использовано: 86
+2025-02-21 16:39:34,510 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-21 16:40:36,000 - services.translator - INFO - Успешный перевод текста: 'Привет! У меня всё х...' -> 'Merhaba, iyiyim, sor...'
+2025-02-21 16:40:36,312 - handlers.translation_handler - INFO - Успешный перевод для пользователя 1929408932
+2025-02-21 16:44:12,004 - services.voices - INFO - Аудиофайл audio_5a3fd6a2-4c72-4aca-80ac-e88339c83074.mp3 успешно создан.
+2025-02-21 16:44:13,055 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-21 16:45:37,228 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIEu2e4PS-21SbjPmfOZ3y4P_2wzSLmAAK9aAACHf_BSQpTzXvoEWcDNgQ.mp3
+2025-02-21 16:46:02,241 - handlers.speech_handler - ERROR - Ошибка обработки аудиофайла: [Errno 2] No such file or directory: 'ffprobe'
+2025-02-21 16:51:46,418 - __main__ - INFO - Команды бота установлены.
+2025-02-21 16:51:46,589 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-21 16:51:47,329 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-22 01:09:54,951 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-22 06:58:23,255 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-22 21:08:27,511 - __main__ - INFO - Команды бота установлены.
+2025-02-22 21:08:27,636 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-22 21:08:42,905 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-22 21:10:18,819 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIEyGe5zLmxRvUDsXKJhhruOP2996fyAAI4aAACYm3QSQHQ4ITs6yAXNgQ.mp3
+2025-02-22 21:10:43,825 - handlers.speech_handler - ERROR - Ошибка обработки аудиофайла: [Errno 2] No such file or directory: 'ffprobe'
+2025-02-22 21:24:03,931 - __main__ - INFO - Команды бота установлены.
+2025-02-22 21:24:04,068 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-22 21:26:02,358 - __main__ - INFO - Команды бота установлены.
+2025-02-22 21:26:02,480 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-22 21:26:12,013 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-22 21:26:25,686 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIEzme50ICzRcOzhogLSkF0TqjsKSojAAJ9aAACYm3QSZhMWRlRBbAPNgQ.mp3
+2025-02-22 21:26:58,941 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-22 22:13:14,000 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-22 22:15:24,008 - services.response_from_assistant - INFO - Сгенерированный текст: Я — виртуальный ассистент, созданный OpenAI, и мое... Входящие токены: 40, Исходящие токены: 176, Всего использовано: 216
+2025-02-22 22:15:24,173 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-22 23:52:50,690 - services.translator - ERROR - Неизвестная ошибка при переводе: DeepL API недоступен
+2025-02-22 23:52:50,691 - services.translator - INFO - Успешный перевод текста: 'Hello, world!...' -> 'Привет, мир!...'
+2025-02-22 23:52:50,692 - services.voices - INFO - Аудиофайл audio_1b7037bd-c379-4e64-bb68-6c32f4942477.mp3 успешно создан.
+2025-02-23 00:10:30,126 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:10:30,263 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:10:30,845 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 00:11:07,695 - services.response_from_assistant - INFO - Сгенерированный текст: Привет! Как я могу помочь тебе сегодня?... (Входящие: 9, Исходящие: 11, Всего: 20)
+2025-02-23 00:11:07,862 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 00:12:04,323 - services.voices - INFO - Аудиофайл audio_0d33e64c-0407-49b7-b007-eafde20b3937.mp3 успешно создан.
+2025-02-23 00:12:04,894 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 00:13:03,038 - services.voices - INFO - Аудиофайл audio_659b3b54-6779-4326-843f-3f3abbff0a10.mp3 успешно создан.
+2025-02-23 00:13:03,233 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 00:13:36,954 - services.voices - INFO - Аудиофайл audio_aeeef94a-1db7-48e9-8d7a-3a0335486585.mp3 успешно создан.
+2025-02-23 00:13:37,273 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 00:14:24,977 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:14:25,102 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:14:28,367 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 00:16:00,152 - services.response_from_assistant - INFO - Сгенерированный текст: Ветер в море гулял, с гор его принесло,  
+Грозным ... (Входящие: 36, Исходящие: 162, Всего: 198)
+2025-02-23 00:16:00,477 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 00:17:01,935 - services.voices - INFO - Аудиофайл audio_5bf016da-2821-4920-921d-31c6e387f42a.mp3 успешно создан.
+2025-02-23 00:17:03,197 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 00:18:58,377 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIFBWe5-PHu4hmhR6g3jV2pnpSGGWiWAAJpawACYm3QSbsBRmJg2-g3NgQ.mp3
+2025-02-23 00:19:23,620 - handlers.speech_handler - ERROR - Ошибка обработки аудиофайла: [Errno 2] No such file or directory: 'ffprobe'
+2025-02-23 00:21:47,443 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:21:47,566 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:22:37,910 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:22:38,030 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:25:48,882 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:25:49,010 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:26:14,229 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 00:26:29,022 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIFDGe5-rO1E94-j5IPvvLKl_9kyy_eAAKRawACYm3QSVLQ820TcxAYNgQ.mp3
+2025-02-23 00:26:59,572 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-23 00:28:11,282 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 00:28:28,130 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIFF2e5-ypVAAHWZSqzRlfwwQzIbxdTYAACo2sAAmJt0Eml7tZGL8Mp6zYE.mp3
+2025-02-23 00:29:03,812 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-23 00:33:50,138 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:33:50,269 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:41:28,416 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:41:28,546 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:41:42,667 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:41:42,798 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:41:53,173 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:41:53,296 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:42:02,119 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:42:02,254 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:56:00,771 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:56:00,898 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:57:18,659 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:57:18,801 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 00:57:21,412 - __main__ - INFO - Команды бота установлены.
+2025-02-23 00:57:21,591 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 01:00:14,613 - __main__ - INFO - Команды бота установлены.
+2025-02-23 01:00:14,738 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 01:00:29,660 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 01:00:47,084 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIFH2e6Ar35HC9wn2iEr7N5J0uOOBlDAAI0bAACYm3QSe4BCHXkRJKLNgQ.mp3
+2025-02-23 01:01:16,757 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-23 01:02:08,181 - services.voices - INFO - Аудиофайл audio_d2582174-6f3e-4a46-b82d-95e525c514c9.mp3 успешно создан.
+2025-02-23 01:02:08,813 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 10:27:14,715 - __main__ - INFO - Команды бота установлены.
+2025-02-23 10:27:14,844 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 10:27:23,918 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 10:28:18,088 - services.response_from_assistant - INFO - Сгенерированный текст: Привет! У меня всё хорошо, спасибо. Как у тебя дел... (Входящие: 11, Исходящие: 16, Всего: 27)
+2025-02-23 10:28:18,229 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:29:14,212 - services.response_from_assistant - INFO - Сгенерированный текст: Конечно, вот несколько вариантов поздравлений с Дн... (Входящие: 21, Исходящие: 425, Всего: 446)
+2025-02-23 10:29:14,371 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:29:38,435 - services.response_from_assistant - INFO - Сгенерированный текст: Пожалуйста! Если у тебя есть ещё вопросы или тебе ... (Входящие: 12, Исходящие: 23, Всего: 35)
+2025-02-23 10:29:38,570 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:29:52,474 - services.response_from_assistant - INFO - Сгенерированный текст: It looks like you might want to cancel something, ... (Входящие: 8, Исходящие: 50, Всего: 58)
+2025-02-23 10:29:52,624 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:30:11,575 - services.response_from_assistant - INFO - Сгенерированный текст: Здравствуйте! Как я могу вам помочь?... (Входящие: 13, Исходящие: 9, Всего: 22)
+2025-02-23 10:30:11,764 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:31:41,328 - services.response_from_assistant - INFO - Сгенерированный текст: Большое спасибо за тёплые слова и поздравления! Оч... (Входящие: 70, Исходящие: 65, Всего: 135)
+2025-02-23 10:31:41,472 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:33:38,746 - __main__ - INFO - Команды бота установлены.
+2025-02-23 10:33:38,881 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 10:33:46,446 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 10:34:09,312 - services.response_from_assistant - INFO - Сгенерированный текст: Вот три цитаты Михаила Васильевича Ломоносова:
+
+1.... (Входящие: 21, Исходящие: 96, Всего: 117)
+2025-02-23 10:34:09,460 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:34:50,433 - services.response_from_assistant - INFO - Сгенерированный текст: Пожалуйста! Если у вас есть вопросы или нужна помо... (Входящие: 9, Исходящие: 22, Всего: 31)
+2025-02-23 10:34:50,610 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:35:03,878 - services.response_from_assistant - INFO - Сгенерированный текст: Hello! How can I assist you today?... (Входящие: 12, Исходящие: 10, Всего: 22)
+2025-02-23 10:35:04,018 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:35:17,395 - services.response_from_assistant - INFO - Сгенерированный текст: It seems like you want to cancel something, but co... (Входящие: 8, Исходящие: 47, Всего: 55)
+2025-02-23 10:35:17,540 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:37:02,452 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 10:37:33,434 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 10:38:54,386 - services.response_from_assistant - INFO - Сгенерированный текст: It appears you're referring to coral, but I'm not ... (Входящие: 9, Исходящие: 204, Всего: 213)
+2025-02-23 10:38:54,535 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-02-23 10:47:32,610 - __main__ - INFO - Команды бота установлены.
+2025-02-23 10:47:32,743 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 10:47:42,469 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 10:48:08,099 - services.translator - INFO - Успешный перевод текста: 'It appears you're re...' -> 'Похоже, вы имеете в ...'
+2025-02-23 10:48:08,255 - handlers.translation_handler - INFO - Успешный перевод для пользователя 1929408932
+2025-02-23 11:08:46,313 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:08:46,437 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:08:55,823 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:09:18,375 - services.translator - INFO - Успешный перевод текста: 'Морская жизнь: Корал...' -> 'Deniz yaşamı: Mercan...'
+2025-02-23 11:09:18,521 - handlers.translation_handler - INFO - Успешный перевод для пользователя 1929408932
+2025-02-23 11:09:50,249 - services.translator - INFO - Успешный перевод текста: '4. Coral Reefs: They...' -> '4. Mercan Resifleri:...'
+2025-02-23 11:09:50,391 - handlers.translation_handler - INFO - Успешный перевод для пользователя 1929408932
+2025-02-23 11:10:01,808 - handlers.translation_handler - INFO - Пользователь 1929408932 отменил перевод.
+2025-02-23 11:10:28,316 - services.translator - INFO - Успешный перевод текста: 'Deniz yaşamı: Mercan...' -> 'الحياة البحرية الشعا...'
+2025-02-23 11:10:28,455 - handlers.translation_handler - INFO - Успешный перевод для пользователя 1929408932
+2025-02-23 11:10:36,791 - handlers.translation_handler - INFO - Пользователь 1929408932 отменил перевод.
+2025-02-23 11:12:38,759 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:12:38,892 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:12:43,922 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:27:05,821 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:27:05,946 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:27:13,993 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:32:37,960 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:32:38,092 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:32:52,162 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:33:11,128 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-TSme5o4cNM0nzqhfTou0ZJuf.png?st=2025-02-23T02%3A33%3A10Z&se=2025-02-23T04%3A33%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-22T04%3A08%3A51Z&ske=2025-02-23T04%3A08%3A51Z&sks=b&skv=2024-08-04&sig=Y5ZM%2B4Hp1BAbP7fJNFovobvO8yWo4hPnMwHXWD/xe/E%3D
+2025-02-23 11:33:13,643 - handlers.image_handler - INFO - Изображение отправлено пользователю 1929408932.
+2025-02-23 11:34:05,690 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-f86tGLcT1GfJ6W9BQlHxAQJa.png?st=2025-02-23T02%3A34%3A05Z&se=2025-02-23T04%3A34%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T03%3A02%3A16Z&ske=2025-02-24T03%3A02%3A16Z&sks=b&skv=2024-08-04&sig=ieNRubIzjNg4Rheog6HuSTsx1KKbU6uma5UkPHxiSLo%3D
+2025-02-23 11:34:08,836 - handlers.image_handler - INFO - Изображение отправлено пользователю 1929408932.
+2025-02-23 11:35:13,111 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:44:03,325 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:44:03,451 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:44:46,340 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:45:11,945 - handlers.translation_handler - INFO - Пользователь 1929408932 отменил перевод.
+2025-02-23 11:49:20,538 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:49:20,659 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:50:03,686 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:50:03,832 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:50:44,894 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:50:45,015 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:51:43,755 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:51:43,886 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 11:51:48,195 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 11:52:21,193 - handlers.translation_handler - INFO - Пользователь 1929408932 отменил перевод.
+2025-02-23 11:58:59,569 - __main__ - INFO - Команды бота установлены.
+2025-02-23 11:58:59,696 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 12:00:39,868 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-LlL1qsGtlsb2zhRIpgkMdeaW.png?st=2025-02-23T03%3A00%3A39Z&se=2025-02-23T05%3A00%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T00%3A42%3A41Z&ske=2025-02-24T00%3A42%3A41Z&sks=b&skv=2024-08-04&sig=OPW8VvrwAjLZZ100Frfi1L%2BAmuRoLTNZP9ifZJlNCNY%3D
+2025-02-23 12:00:42,313 - handlers.image_handler - INFO - Изображение отправлено пользователю 1929408932.
+2025-02-23 12:33:03,649 - __main__ - INFO - Команды бота установлены.
+2025-02-23 12:33:03,769 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 12:33:06,589 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 12:33:48,348 - services.voices - INFO - Аудиофайл audio_66f7a61c-7233-4784-bae7-885605e33379.mp3 успешно создан.
+2025-02-23 12:33:49,092 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 12:35:47,566 - __main__ - INFO - Команды бота установлены.
+2025-02-23 12:35:47,693 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 12:37:32,264 - services.voices - INFO - Аудиофайл audio_a1e79c26-59c5-4f69-8adf-db5811e6abbc.mp3 успешно создан.
+2025-02-23 12:39:53,739 - __main__ - INFO - Команды бота установлены.
+2025-02-23 12:39:53,875 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 12:40:05,521 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 12:40:25,154 - services.voices - INFO - Аудиофайл audio_76b118ad-f899-4ef5-a50c-501adae4ab74.mp3 успешно создан.
+2025-02-23 12:40:26,087 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 12:45:03,069 - __main__ - INFO - Команды бота установлены.
+2025-02-23 12:45:03,191 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 12:45:11,301 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 12:45:39,559 - services.voices - INFO - Аудиофайл audio_8d7a0b41-cd72-422e-8cef-ec2fbfe86100.mp3 успешно создан.
+2025-02-23 12:45:40,263 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 12:46:17,705 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 12:46:56,644 - services.voices - INFO - Аудиофайл audio_8fc87ceb-9e56-468e-a8a8-12af043294b2.mp3 успешно создан.
+2025-02-23 12:46:57,547 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 13:32:17,985 - __main__ - INFO - Команды бота установлены.
+2025-02-23 13:32:18,114 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 13:32:18,641 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 13:32:19,193 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 13:32:39,023 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIGJWe6svUZEIuFrQPQ3zk84IfTFaUJAAIgYgACFmHYSToS6LMyE3CCNgQ.mp3
+2025-02-23 13:33:08,221 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-23 13:33:08,444 - handlers.speech_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIGJWe6svUZEIuFrQPQ3zk84IfTFaUJAAIgYgACFmHYSToS6LMyE3CCNgQ.mp3 и Текстовый файл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/recognized_text_file/CQACAgIAAxkBAAIGJWe6svUZEIuFrQPQ3zk84IfTFaUJAAIgYgACFmHYSToS6LMyE3CCNgQ.txt удалёны.
+2025-02-23 13:37:03,669 - __main__ - INFO - Команды бота установлены.
+2025-02-23 13:37:03,813 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 13:37:26,027 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIGK2e6tBRvHZnObsd8oT0npQFk2bK2AAIsYgACFmHYSayrH3LGpiiJNgQ.mp3
+2025-02-23 13:37:54,901 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-23 13:37:54,903 - handlers.speech_handler - ERROR - Ошибка обработки аудиофайла: [Errno 2] No such file or directory: '/Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/recognized_text_file/CQACAgIAAxkBAAIGK2e6tBRvHZnObsd8oT0npQFk2bK2AAIsYgACFmHYSayrH3LGpiiJNgQ.txt'
+2025-02-23 13:39:19,468 - __main__ - INFO - Команды бота установлены.
+2025-02-23 13:39:19,586 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 13:39:21,154 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 13:39:34,268 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIGNme6tJXOF1sr7HMbtzw6NkpXhtSQAAIvYgACFmHYSVCE_0A0gNKyNgQ.mp3
+2025-02-23 13:40:04,592 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-23 13:40:04,595 - handlers.speech_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIGNme6tJXOF1sr7HMbtzw6NkpXhtSQAAIvYgACFmHYSVCE_0A0gNKyNgQ.mp3 и Текстовый файл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/recognized_text_file/CQACAgIAAxkBAAIGNme6tJXOF1sr7HMbtzw6NkpXhtSQAAIvYgACFmHYSVCE_0A0gNKyNgQ.txt удалёны.
+2025-02-23 13:58:39,385 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 13:59:53,132 - __main__ - INFO - Пользователь 1940184652 начал работу с ботом.
+2025-02-23 14:00:51,367 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-fys2vl6mZzeGOzAEjWby8WDa.png?st=2025-02-23T05%3A00%3A51Z&se=2025-02-23T07%3A00%3A51Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T03%3A20%3A15Z&ske=2025-02-24T03%3A20%3A15Z&sks=b&skv=2024-08-04&sig=E7oRz3GckgSS0pJsFOC0Mm%2BkUIFMk1xfdCFDnoGQGRk%3D
+2025-02-23 14:00:53,868 - handlers.image_handler - INFO - Изображение отправлено пользователю 1940184652.
+2025-02-23 14:01:21,450 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-3gbpbujFziWfqKh2WSrKuIlH.png?st=2025-02-23T05%3A01%3A21Z&se=2025-02-23T07%3A01%3A21Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T02%3A59%3A40Z&ske=2025-02-24T02%3A59%3A40Z&sks=b&skv=2024-08-04&sig=jtiFpWYmgiFX2i4Gp97cRbjYqLBUArBGKXmb3wvSE1k%3D
+2025-02-23 14:01:24,389 - handlers.image_handler - INFO - Изображение отправлено пользователю 1940184652.
+2025-02-23 14:01:46,502 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-dcjsChiEW6bP2yuLxYLuHT0m.png?st=2025-02-23T05%3A01%3A46Z&se=2025-02-23T07%3A01%3A46Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T03%3A24%3A47Z&ske=2025-02-24T03%3A24%3A47Z&sks=b&skv=2024-08-04&sig=ROarAVU/0qunTcoJtnjWlaZQKb6fJyydVGK/JJRPao4%3D
+2025-02-23 14:01:49,370 - handlers.image_handler - INFO - Изображение отправлено пользователю 1940184652.
+2025-02-23 14:10:01,119 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-yf0erXV9FzZg2kleWjP9mAS8.png?st=2025-02-23T05%3A10%3A01Z&se=2025-02-23T07%3A10%3A01Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T04%3A57%3A55Z&ske=2025-02-24T04%3A57%3A55Z&sks=b&skv=2024-08-04&sig=uC2RxBJJp/N3y0W4HoWsAbUToHvmOoFeyqgMpkRR9ro%3D
+2025-02-23 14:10:03,547 - handlers.image_handler - INFO - Изображение отправлено пользователю 1929408932.
+2025-02-23 14:20:47,904 - __main__ - INFO - Команды бота установлены.
+2025-02-23 14:20:48,029 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 14:20:48,562 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 14:21:54,516 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-rY4vodtBHT1e7v71KNOmlmFi.png?st=2025-02-23T05%3A21%3A54Z&se=2025-02-23T07%3A21%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-23T03%3A07%3A26Z&ske=2025-02-24T03%3A07%3A26Z&sks=b&skv=2024-08-04&sig=5biiso3yjVLinRMTEie5OSZOGPRjy0KpW0EGGagmVo4%3D
+2025-02-23 14:21:57,584 - handlers.image_handler - INFO - Изображение отправлено пользователю 1929408932.
+2025-02-23 14:23:01,249 - services.translator - INFO - Успешный перевод текста: 'Утро доброе, желаете...' -> 'Good morning, would ...'
+2025-02-23 14:23:01,404 - handlers.translation_handler - INFO - Успешный перевод для пользователя 1940184652
+2025-02-23 14:23:40,850 - handlers.translation_handler - INFO - Пользователь 1940184652 отменил перевод.
+2025-02-23 14:23:48,998 - __main__ - INFO - Пользователь 1940184652 начал работу с ботом.
+2025-02-23 14:24:15,006 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-BOOpo6sJ8y2rOiBjjOs5BAii.png?st=2025-02-23T05%3A24%3A15Z&se=2025-02-23T07%3A24%3A15Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-22T21%3A09%3A59Z&ske=2025-02-23T21%3A09%3A59Z&sks=b&skv=2024-08-04&sig=V6T/PDiji%2BflCaKxouI2/BNZhTzybqJxUL2HHChvaiw%3D
+2025-02-23 14:24:17,566 - handlers.image_handler - INFO - Изображение отправлено пользователю 1940184652.

@@ -1,0 +1,12 @@
+python-dotenv==1.0.1
+deepl==1.21.0
+python-telegram-bot==21.10
+requests==2.32.3
+httpx==0.28.1
+openai==1.63.2
+pip==25.0.1
+pydub==0.25.1
+
+
+
+
