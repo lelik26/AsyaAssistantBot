@@ -236,3 +236,25 @@
 2025-02-23 17:30:46,568 - __main__ - INFO - Команды бота установлены.
 2025-02-23 17:30:46,691 - __main__ - INFO - Бот запущен и готов к работе.
 2025-02-23 17:30:47,227 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 19:16:25,188 - __main__ - INFO - Команды бота установлены.
+2025-02-23 19:16:25,464 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 19:16:34,593 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 19:22:25,528 - __main__ - INFO - Команды бота установлены.
+2025-02-23 19:22:25,780 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 19:35:22,038 - __main__ - INFO - Команды бота установлены.
+2025-02-23 19:35:22,268 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 19:35:28,210 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 19:35:51,557 - services.voices - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/voice_file/790.mp3 успешно создан.
+2025-02-23 19:35:52,312 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-02-23 19:35:52,314 - handlers.voice_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/voice_file/790.mp3 удалён.
+2025-02-23 19:36:31,025 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIDHGe7CD3SJliCHcJqr1Lpwpeb5Oo-AAI6ZQAC46bZSe4fQ7LebTFjNgQ.mp3
+2025-02-23 19:37:29,386 - handlers.speech_handler - ERROR - Ошибка обработки аудиофайла: Timed out
+2025-02-23 19:38:52,435 - __main__ - INFO - Команды бота установлены.
+2025-02-23 19:38:52,675 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 19:39:19,938 - __main__ - INFO - Команды бота установлены.
+2025-02-23 19:39:20,179 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 19:39:26,668 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-02-23 19:39:41,002 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIDJGe7CPvN4dvtctU3zfIYuGDObjQrAAJKZQAC46bZSadf_s0gXk2-NgQ.mp3
+2025-02-23 19:40:10,462 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-02-23 19:40:10,464 - handlers.speech_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIDJGe7CPvN4dvtctU3zfIYuGDObjQrAAJKZQAC46bZSadf_s0gXk2-NgQ.mp3 удалён.
+2025-02-23 19:40:10,465 - handlers.speech_handler - INFO - Текстовый файл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/recognized_text_file/CQACAgIAAxkBAAIDJGe7CPvN4dvtctU3zfIYuGDObjQrAAJKZQAC46bZSadf_s0gXk2-NgQ.txt удалён.

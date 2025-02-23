@@ -156,8 +156,10 @@ class SpeechHandler:
 
             # Удаление файла после обработки
             os.remove(audio_file_path)
+            logger.info(f"Аудиофайл {audio_file_path} удалён.")
+
             os.remove(text_file_path)
-            logger.info(f"Аудиофайл {audio_file_path} и Текстовый файл {text_file_path} удалёны.")
+            logger.info(f"Текстовый файл {text_file_path} удалён.")
 
         except SpeechToTextError as e:
             logger.error(f"Ошибка распознавания речи у {update.effective_user.id}: {str(e)}")

@@ -97,12 +97,11 @@ class VoiceHandlers:
             await update.message.reply_text(f"⌛️Начинаю обработку текста и формирую аудиофайл после озвучивания... ")
 
             # Папка для аудиофайлов
-            audio_dir = get_abs_path("static/audio_file")
+            audio_dir = get_abs_path("static/voice_file")
             ensure_directory(audio_dir)
 
             audio_file_path = os.path.join(audio_dir, f"{update.message.message_id}.mp3")
 
-            # audio_file = self.voice_service.generate_audio(text, voice_id)
             # Генерация аудиофайла
             self.voice_service.generate_audio(text, voice_id, audio_file_path)
 
