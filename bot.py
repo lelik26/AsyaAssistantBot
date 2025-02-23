@@ -131,6 +131,8 @@ async def main():
     bot.setup_handlers()
     await bot.app.initialize()
     await bot.set_bot_commands()
+    # Удаляем webhook, если он был установлен ранее
+    await bot.app.bot.delete_webhook(drop_pending_updates=True)
     await bot.app.start()
     await bot.app.updater.start_polling()
     logger.info("Бот запущен и готов к работе.")
