@@ -5,4 +5,4 @@ nixPkgs = ["ffmpeg"]
 cmd = ["pip install --no-cache-dir -r requirements.txt"]
 
 [start]
-cmd = "python bot.py"
+cmd = "python3 bot.py"
