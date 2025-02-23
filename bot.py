@@ -58,18 +58,7 @@ class AsyaAssistantBot:
             filters.Regex("^/speech$") ,
             self.voice_handlers.generate_voice
         ))
-        # Обработчик для общения (команда /talk или для других текстовых сообщений)
-        # self.app.add_handler(MessageHandler(
-        #     filters.TEXT & ~filters.COMMAND &
-        #     ~filters.Regex(f"^({'|'.join(cfg.VOICES_GPT.keys())})$") &
-        #     ~filters.Regex(f"^({'|'.join(cfg.SUPPORTED_LANGUAGES_FREE)})$"),
-        #     self.response_handlers.generate_response
-        # )) # Надо проверить без этого блока, возможно он избыточный
 
-        # self.app.add_handler(MessageHandler(
-        #     filters.TEXT & ~filters.COMMAND,
-        #     self.image_handlers.image_generator
-        # ))
         self.app.add_handler(MessageHandler(
             filters.VOICE & filters.AUDIO & ~filters.COMMAND,
             self.speech_handlers.speech_service
@@ -131,6 +120,8 @@ async def main():
     bot.setup_handlers()
     await bot.app.initialize()
     await bot.set_bot_commands()
+    # Удаляем webhook, если он был установлен ранее
+    await bot.app.bot.delete_webhook(drop_pending_updates=True)
     await bot.app.start()
     await bot.app.updater.start_polling()
     logger.info("Бот запущен и готов к работе.")
