@@ -233,3 +233,6 @@
 2025-02-23 14:23:48,998 - __main__ - INFO - Пользователь 1940184652 начал работу с ботом.
 2025-02-23 14:24:15,006 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-PFnISB1CmOjUYNCObn4ONfMy/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-BOOpo6sJ8y2rOiBjjOs5BAii.png?st=2025-02-23T05%3A24%3A15Z&se=2025-02-23T07%3A24%3A15Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-22T21%3A09%3A59Z&ske=2025-02-23T21%3A09%3A59Z&sks=b&skv=2024-08-04&sig=V6T/PDiji%2BflCaKxouI2/BNZhTzybqJxUL2HHChvaiw%3D
 2025-02-23 14:24:17,566 - handlers.image_handler - INFO - Изображение отправлено пользователю 1940184652.
+2025-02-23 17:30:46,568 - __main__ - INFO - Команды бота установлены.
+2025-02-23 17:30:46,691 - __main__ - INFO - Бот запущен и готов к работе.
+2025-02-23 17:30:47,227 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
