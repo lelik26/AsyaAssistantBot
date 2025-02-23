@@ -1,5 +1,6 @@
 # config.py
 import os
+import shutil
 from dotenv import load_dotenv
 
 # Загружаем переменные из .env
@@ -18,8 +19,12 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 # Пути к ffmpeg и ffprobe
-FFMPEG_PATH = "/opt/homebrew/bin/ffmpeg"
-FFPROBE_PATH = "/opt/homebrew/bin/ffprobe"
+# FFMPEG_PATH = "/opt/homebrew/bin/ffmpeg"
+# FFPROBE_PATH = "/opt/homebrew/bin/ffprobe"
+# Поиск FFmpeg и FFprobe через переменные окружения или системные пути
+FFMPEG_PATH = os.getenv('FFMPEG_PATH', shutil.which("ffmpeg"))
+FFPROBE_PATH = os.getenv('FFPROBE_PATH', shutil.which("ffprobe"))
+
 
 # Проверка существования файлов
 if not os.path.exists(FFMPEG_PATH):
