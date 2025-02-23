@@ -24,12 +24,14 @@ class VoicesService:
             raise ValueError("Не задан API-ключ OpenAI.")
 
     @sync_openai_error_handler
-    def generate_audio(self, text: str, voice: str, model: str = "tts-1") -> str:
+    def generate_audio(self, text: str, voice: str, audio_file_path: str = None, model: str = "tts-1") -> str:
         """Generates an audio file from text using OpenAI TTS.
 
         Args:
             text (str): The text to convert.
             voice (str): The voice identifier.
+            audio_file_path (str, optional): Full path where to save the audio file.
+                                             If not provided, a random filename is generated.
             model (str, optional): The TTS model. Defaults to "tts-1".
 
         Returns:
@@ -51,7 +53,10 @@ class VoicesService:
         )
         if not hasattr(response, "content"):
             raise VoicesError("Ошибка: не получен контент аудио.")
-        filename = f"audio_{uuid.uuid4()}.mp3"
+        if audio_file_path is None:
+            filename = f"audio_{uuid.uuid4()}.mp3"
+        else:
+            filename = audio_file_path
         with open(filename, "wb") as audio_file:
             audio_file.write(response.content)
         logger.info(f"Аудиофайл {filename} успешно создан.")
