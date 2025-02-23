@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d2f0270-e5b1-4940-98b5-eb4ffe62a2d7" name="Changes" comment="Исправлено config.py">
+    <list default="true" id="5d2f0270-e5b1-4940-98b5-eb4ffe62a2d7" name="Changes" comment="Исправлено # Удаляем webhook, если он был установлен ранее  bot.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     &quot;Python.config.executor&quot;: &quot;Run&quot;,
     &quot;Python.response_handler.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -120,6 +121,7 @@
       <workItem from="1740243294016" duration="195000" />
       <workItem from="1740243594446" duration="6730000" />
       <workItem from="1740282701404" duration="21205000" />
+      <workItem from="1740306934070" duration="495000" />
     </task>
     <task id="LOCAL-00001" summary="add project and new files">
       <option name="closed" value="true" />
@@ -225,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740306415720</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Исправлено # Удаляем webhook, если он был установлен ранее  bot.py">
+      <option name="closed" value="true" />
+      <created>1740307160458</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740307160458</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +265,8 @@
     <MESSAGE value="change command &quot;python3 bot.py&quot;" />
     <MESSAGE value="Исправлено использование команды Python и добавлен Python в зависимости" />
     <MESSAGE value="Исправлено config.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Исправлено config.py" />
+    <MESSAGE value="Исправлено # Удаляем webhook, если он был установлен ранее  bot.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправлено # Удаляем webhook, если он был установлен ранее  bot.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AsyaAssistant_Text_Image_TTS_STT_Translate_$config.coverage" NAME="config Coverage Results" MODIFIED="1740230004800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
