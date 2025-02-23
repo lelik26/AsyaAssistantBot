@@ -18,19 +18,7 @@ DEEPL_API_FREE_URL = os.getenv("DEEPL_API_URL", "https://api-free.deepl.com/v2/t
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
-# Пути к ffmpeg и ffprobe
-# FFMPEG_PATH = "/opt/homebrew/bin/ffmpeg"
-# FFPROBE_PATH = "/opt/homebrew/bin/ffprobe"
-# Поиск FFmpeg и FFprobe через переменные окружения или системные пути
-# FFMPEG_PATH = os.getenv('FFMPEG_PATH', shutil.which("ffmpeg"))
-# FFPROBE_PATH = os.getenv('FFPROBE_PATH', shutil.which("ffprobe"))
-#
-#
-# # Проверка существования файлов
-# if not os.path.exists(FFMPEG_PATH):
-#     raise FileNotFoundError(f"FFmpeg не найден по пути: {FFMPEG_PATH}")
-# if not os.path.exists(FFPROBE_PATH):
-#     raise FileNotFoundError(f"FFprobe не найден по пути: {FFPROBE_PATH}")
+
 
 FFMPEG_PATH = shutil.which("ffmpeg")
 FFPROBE_PATH = shutil.which("ffprobe")
