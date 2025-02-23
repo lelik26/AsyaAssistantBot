@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d2f0270-e5b1-4940-98b5-eb4ffe62a2d7" name="Changes" comment="update README.md">
-      <change afterPath="$PROJECT_DIR$/Aptfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+    <list default="true" id="5d2f0270-e5b1-4940-98b5-eb4ffe62a2d7" name="Changes" comment="&quot;Добавлен nixpacks.toml для установки FFmpeg и настройки сборки&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nixpacks.toml" beforeDir="false" afterPath="$PROJECT_DIR$/nixpacks.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
       <workItem from="1740242940257" duration="349000" />
       <workItem from="1740243294016" duration="195000" />
       <workItem from="1740243594446" duration="6730000" />
-      <workItem from="1740282701404" duration="14261000" />
+      <workItem from="1740282701404" duration="16543000" />
     </task>
     <task id="LOCAL-00001" summary="add project and new files">
       <option name="closed" value="true" />
@@ -146,7 +146,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740297552111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Aptfile and update config.py">
+      <option name="closed" value="true" />
+      <created>1740299927826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740299927826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete Aptfile">
+      <option name="closed" value="true" />
+      <created>1740300778305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740300778305</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;Добавлен nixpacks.toml для установки FFmpeg и настройки сборки&quot;">
+      <option name="closed" value="true" />
+      <created>1740301872240</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740301872240</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +193,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add project and new files" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="add Aptfile and update config.py" />
+    <MESSAGE value="delete Aptfile" />
+    <MESSAGE value="&quot;Добавлен nixpacks.toml для установки FFmpeg и настройки сборки&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Добавлен nixpacks.toml для установки FFmpeg и настройки сборки&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AsyaAssistant_Text_Image_TTS_STT_Translate_$config.coverage" NAME="config Coverage Results" MODIFIED="1740230004800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

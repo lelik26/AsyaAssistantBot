@@ -1,8 +1,8 @@
 [phases.setup]
-   nixPkgs = ["ffmpeg", "ffprobe"]
+nixPkgs = ["ffmpeg"]
 
-   [phases.install]
-   cmd = ["pip install --no-cache-dir -r requirements.txt"]
+[phases.install]
+cmd = ["pip install --no-cache-dir -r requirements.txt"]
 
-   [start]
-   cmd = "python bot.py"
+[start]
+cmd = "python bot.py"
