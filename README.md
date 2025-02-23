@@ -10,32 +10,33 @@ AsyaAssistantBot — это Telegram-бот, предназначенный дл
 
 ## Структура проекта
 
-├── .env # Файл переменных окружения (ключи API и т.д.)
-├── README.md # Документация проекта
-├── bot.py # Основной файл бота 
-├── config.py # Конфигурация и настройки (ключи, модели, голоса, языки)├── requirements.txt # Список зависимостей
-├── handlers # Обработчики команд и диалогов Telegram │ 
-    ├── image_handler.py │ 
-    ├── response_handler.py │ 
-    ├── speech_handler.py │ 
-    ├── translation_handler.py │ 
-    └── voice_handler.py 
-├── services # Сервисы для работы с внешними API │ 
-    ├── image_generator.py │ 
-    ├── response_from_assistant.py │ 
-    ├── speech_to_text.py │ 
-    ├── translator.py │ 
-    └── voices.py 
-├── tests # Тесты для сервисов │ 
-    ├── test_image_generator.py │ 
-    ├── test_response_from_assistant.py │ 
-    ├── test_speech_to_text.py │ 
-    ├── test_translator.py │ 
-    └── test_voices.py 
-└── utils # Вспомогательные модули 
-    ├── api_utils.py # Декораторы для обработки ошибок API 
-    ├── file_utils.py # Функции для работы с файлами 
-    └── logger.py # Настройка логирования
+**├── .env # Файл переменных окружения (ключи API и т.д.)**
+**├── README.md # Документация проекта**
+**├── bot.py # Основной файл бота**
+**├── config.py # Конфигурация и настройки (ключи, модели, голоса, языки)**
+**├── requirements.txt # Список зависимостей**
+**├── handlers # Обработчики команд и диалогов Telegram**
+    **├── image_handler.py │** 
+    **├── response_handler.py │** 
+    **├── speech_handler.py │** 
+    **├── translation_handler.py │** 
+    **└── voice_handler.py** 
+**├── services # Сервисы для работы с внешними API │** 
+    **├── image_generator.py │**
+    **├── response_from_assistant.py │** 
+    **├── speech_to_text.py │** 
+    **├── translator.py │** 
+    **└── voices.py** 
+**├── tests # Тесты для сервисов │**
+    **├── test_image_generator.py │ 
+    **├── test_response_from_assistant.py |** 
+    **├── test_speech_to_text.py │**
+    **├── test_translator.py │**
+    **└── test_voices.py** 
+**└── utils # Вспомогательные модули** 
+    **├── api_utils.py # Декораторы для обработки ошибок API**
+    **├── file_utils.py # Функции для работы с файлами** 
+    **└── logger.py # Настройка логирования**
 
 
 
