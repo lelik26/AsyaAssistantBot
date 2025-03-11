@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d2f0270-e5b1-4940-98b5-eb4ffe62a2d7" name="Changes" comment="В services/voices.py:&#10;Метод generate_audio теперь принимает дополнительный аргумент audio_file_path. Если передан, аудиофайл сохраняется по указанному пути; иначе генерируется случайное имя.&#10;&#10;В handlers/voice_handler.py:&#10;При вызове метода generate_audio передается путь для сохранения файла в папку static/voice_file. После отправки аудиофайла, файл удаляется с диска.&#10;&#10;В handlers/speech_handler.py:&#10;После обработки аудиофайла (и отправки распознанного текста), файл удаляется, чтобы не накапливать лишние файлы.">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bot.log" beforeDir="false" afterPath="$PROJECT_DIR$/bot.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="5d2f0270-e5b1-4940-98b5-eb4ffe62a2d7" name="Changes" comment="&#10;update version library httpx&#10;openai python-telegram-bot" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +121,7 @@
       <workItem from="1740282701404" duration="21205000" />
       <workItem from="1740306934070" duration="495000" />
       <workItem from="1740308083890" duration="3131000" />
-      <workItem from="1741654275530" duration="305000" />
+      <workItem from="1741654275530" duration="722000" />
     </task>
     <task id="LOCAL-00001" summary="add project and new files">
       <option name="closed" value="true" />
@@ -256,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740310898232</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="&#10;update version library httpx&#10;openai python-telegram-bot">
+      <option name="closed" value="true" />
+      <created>1741654681722</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741654681722</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,8 +290,10 @@
     <MESSAGE value="Исправлено использование команды Python и добавлен Python в зависимости" />
     <MESSAGE value="Исправлено config.py" />
     <MESSAGE value="Исправлено # Удаляем webhook, если он был установлен ранее  bot.py" />
+    <MESSAGE value="&#10;update version library" />
     <MESSAGE value="В services/voices.py:&#10;Метод generate_audio теперь принимает дополнительный аргумент audio_file_path. Если передан, аудиофайл сохраняется по указанному пути; иначе генерируется случайное имя.&#10;&#10;В handlers/voice_handler.py:&#10;При вызове метода generate_audio передается путь для сохранения файла в папку static/voice_file. После отправки аудиофайла, файл удаляется с диска.&#10;&#10;В handlers/speech_handler.py:&#10;После обработки аудиофайла (и отправки распознанного текста), файл удаляется, чтобы не накапливать лишние файлы." />
-    <option name="LAST_COMMIT_MESSAGE" value="В services/voices.py:&#10;Метод generate_audio теперь принимает дополнительный аргумент audio_file_path. Если передан, аудиофайл сохраняется по указанному пути; иначе генерируется случайное имя.&#10;&#10;В handlers/voice_handler.py:&#10;При вызове метода generate_audio передается путь для сохранения файла в папку static/voice_file. После отправки аудиофайла, файл удаляется с диска.&#10;&#10;В handlers/speech_handler.py:&#10;После обработки аудиофайла (и отправки распознанного текста), файл удаляется, чтобы не накапливать лишние файлы." />
+    <MESSAGE value="&#10;update version library httpx&#10;openai python-telegram-bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;update version library httpx&#10;openai python-telegram-bot" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AsyaAssistant_Text_Image_TTS_STT_Translate_$config.coverage" NAME="config Coverage Results" MODIFIED="1740230004800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
