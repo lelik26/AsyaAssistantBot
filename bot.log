@@ -258,3 +258,29 @@
 2025-02-23 19:40:10,462 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
 2025-02-23 19:40:10,464 - handlers.speech_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIDJGe7CPvN4dvtctU3zfIYuGDObjQrAAJKZQAC46bZSadf_s0gXk2-NgQ.mp3 удалён.
 2025-02-23 19:40:10,465 - handlers.speech_handler - INFO - Текстовый файл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/recognized_text_file/CQACAgIAAxkBAAIDJGe7CPvN4dvtctU3zfIYuGDObjQrAAJKZQAC46bZSadf_s0gXk2-NgQ.txt удалён.
+2025-03-15 20:06:16,549 - __main__ - INFO - Команды бота установлены.
+2025-03-15 20:06:16,797 - __main__ - INFO - Бот запущен и готов к работе.
+2025-03-15 20:13:02,515 - __main__ - INFO - Команды бота установлены.
+2025-03-15 20:13:02,749 - __main__ - INFO - Бот запущен и готов к работе.
+2025-03-15 20:13:19,200 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-03-15 20:13:30,728 - services.response_from_assistant - INFO - Сгенерированный текст: Привет! Как я могу помочь вам сегодня?... (Входящие: 9, Исходящие: 11, Всего: 20)
+2025-03-15 20:13:30,884 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-03-15 20:25:11,988 - __main__ - INFO - Команды бота установлены.
+2025-03-15 20:25:12,231 - __main__ - INFO - Бот запущен и готов к работе.
+2025-03-15 20:26:06,957 - services.image_generator - INFO - Изображение успешно создано: https://oaidalleapiprodscus.blob.core.windows.net/private/org-jaR2Pj7bMJeMat9lybqVwT4C/user-HEwO9LBZp2TZq4AlDjjBN2XY/img-Y0VRud0zER7bsjP6bh6DwOot.png?st=2025-03-15T11%3A26%3A06Z&se=2025-03-15T13%3A26%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-03-14T18%3A40%3A10Z&ske=2025-03-15T18%3A40%3A10Z&sks=b&skv=2024-08-04&sig=ENhaKz4Pm6fgcpF%2B1thYZfsc07Z6aSW0Th0HAK2OYDw%3D
+2025-03-15 20:26:09,584 - handlers.image_handler - INFO - Изображение отправлено пользователю 1929408932.
+2025-03-15 20:27:39,389 - services.response_from_assistant - INFO - Сгенерированный текст: Маникюр — это косметическая процедура, направленна... (Входящие: 14, Исходящие: 430, Всего: 444)
+2025-03-15 20:27:39,552 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
+2025-03-15 20:28:43,920 - services.voices - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/voice_file/2084.mp3 успешно создан.
+2025-03-15 20:28:44,874 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-03-15 20:28:44,875 - handlers.voice_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/voice_file/2084.mp3 удалён.
+2025-03-15 20:29:50,980 - services.translator - INFO - Успешный перевод текста: 'Регулярный маникюр н...' -> 'Düzenli manikür sade...'
+2025-03-15 20:29:51,121 - handlers.translation_handler - INFO - Успешный перевод для пользователя 1929408932
+2025-03-15 20:30:00,541 - handlers.translation_handler - INFO - Пользователь 1929408932 отменил перевод.
+2025-03-15 20:30:59,281 - services.voices - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/voice_file/2101.mp3 успешно создан.
+2025-03-15 20:31:00,608 - handlers.voice_handler - INFO - Аудио отправлено пользователю 1929408932.
+2025-03-15 20:31:00,609 - handlers.voice_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/voice_file/2101.mp3 удалён.
+2025-03-15 20:32:10,877 - handlers.speech_handler - INFO - Файл скачивается в: /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIIO2fVc0kfGRUP_u7e7sFXUX9x8rz3AAJLawACDdqpSqZGbaUUN4tzNgQ.mp3
+2025-03-15 20:32:44,263 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
+2025-03-15 20:32:44,266 - handlers.speech_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIIO2fVc0kfGRUP_u7e7sFXUX9x8rz3AAJLawACDdqpSqZGbaUUN4tzNgQ.mp3 удалён.
+2025-03-15 20:32:44,266 - handlers.speech_handler - INFO - Текстовый файл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/recognized_text_file/CQACAgIAAxkBAAIIO2fVc0kfGRUP_u7e7sFXUX9x8rz3AAJLawACDdqpSqZGbaUUN4tzNgQ.txt удалён.
