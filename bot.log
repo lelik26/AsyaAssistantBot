@@ -258,3 +258,10 @@
 2025-02-23 19:40:10,462 - handlers.speech_handler - INFO - Распознанная речь отправлена пользователю 1929408932.
 2025-02-23 19:40:10,464 - handlers.speech_handler - INFO - Аудиофайл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/audio_file/CQACAgIAAxkBAAIDJGe7CPvN4dvtctU3zfIYuGDObjQrAAJKZQAC46bZSadf_s0gXk2-NgQ.mp3 удалён.
 2025-02-23 19:40:10,465 - handlers.speech_handler - INFO - Текстовый файл /Users/vidal/PycharmProjects/AsyaAssistant_Text_Image_TTS_STT_Translate)/static/recognized_text_file/CQACAgIAAxkBAAIDJGe7CPvN4dvtctU3zfIYuGDObjQrAAJKZQAC46bZSadf_s0gXk2-NgQ.txt удалён.
+2025-03-15 20:06:16,549 - __main__ - INFO - Команды бота установлены.
+2025-03-15 20:06:16,797 - __main__ - INFO - Бот запущен и готов к работе.
+2025-03-15 20:13:02,515 - __main__ - INFO - Команды бота установлены.
+2025-03-15 20:13:02,749 - __main__ - INFO - Бот запущен и готов к работе.
+2025-03-15 20:13:19,200 - __main__ - INFO - Пользователь 1929408932 начал работу с ботом.
+2025-03-15 20:13:30,728 - services.response_from_assistant - INFO - Сгенерированный текст: Привет! Как я могу помочь вам сегодня?... (Входящие: 9, Исходящие: 11, Всего: 20)
+2025-03-15 20:13:30,884 - handlers.response_handler - INFO - Ответ отправлен пользователю 1929408932.
